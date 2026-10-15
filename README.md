@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sunny1074/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
