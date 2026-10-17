@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sunny1074/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/sunny1074/DSA/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunny1074/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
