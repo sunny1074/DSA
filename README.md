@@ -93,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
+| [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
