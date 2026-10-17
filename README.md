@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
