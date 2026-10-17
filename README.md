@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sunny1074/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -95,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
