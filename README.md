@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
+| [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 | [0228-summary-ranges](https://github.com/sunny1074/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -109,9 +110,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunny1074/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
