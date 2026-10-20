@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sunny1074/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sunny1074/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
