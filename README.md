@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunny1074/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
