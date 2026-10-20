@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/sunny1074/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
