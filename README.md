@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunny1074/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sunny1074/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sunny1074/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
@@ -162,10 +163,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sunny1074/DSA/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/sunny1074/DSA/tree/master/0495-teemo-attacking) |
 | [2974-minimum-number-game](https://github.com/sunny1074/DSA/tree/master/2974-minimum-number-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sunny1074/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
