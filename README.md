@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunny1074/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sunny1074/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sunny1074/DSA/tree/master/0054-spiral-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunny1074/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sunny1074/DSA/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/sunny1074/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
