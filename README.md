@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sunny1074/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
@@ -83,6 +84,7 @@
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sunny1074/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/sunny1074/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/sunny1074/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 ## String
 |  |
@@ -115,6 +117,7 @@
 | [0054-spiral-matrix](https://github.com/sunny1074/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sunny1074/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/sunny1074/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/sunny1074/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
