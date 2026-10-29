@@ -6,22 +6,26 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sunny1074/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sunny1074/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sunny1074/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sunny1074/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunny1074/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sunny1074/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sunny1074/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sunny1074/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sunny1074/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sunny1074/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunny1074/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sunny1074/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sunny1074/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sunny1074/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
