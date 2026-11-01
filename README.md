@@ -29,6 +29,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sunny1074/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/sunny1074/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/sunny1074/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sunny1074/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunny1074/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sunny1074/DSA/tree/master/0075-sort-colors) |
