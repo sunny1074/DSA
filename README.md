@@ -83,6 +83,7 @@
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 ## Two Pointers
 |  |
@@ -96,11 +97,13 @@
 | [0189-rotate-array](https://github.com/sunny1074/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunny1074/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
