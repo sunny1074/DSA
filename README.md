@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sunny1074/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sunny1074/DSA/tree/master/2974-minimum-number-game) |
 ## Merge Sort
@@ -94,6 +95,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sunny1074/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/sunny1074/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0088-merge-sorted-array](https://github.com/sunny1074/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sunny1074/DSA/tree/master/2974-minimum-number-game) |
 ## Stack
@@ -221,4 +224,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sunny1074/DSA/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
