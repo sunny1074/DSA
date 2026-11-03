@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sunny1074/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0441-arranging-coins](https://github.com/sunny1074/DSA/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0204-count-primes](https://github.com/sunny1074/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/sunny1074/DSA/tree/master/0441-arranging-coins) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
