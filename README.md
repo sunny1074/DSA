@@ -19,6 +19,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/sunny1074/DSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunny1074/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/sunny1074/DSA/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/sunny1074/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
@@ -140,6 +142,7 @@
 | [0204-count-primes](https://github.com/sunny1074/DSA/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/sunny1074/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/sunny1074/DSA/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/sunny1074/DSA/tree/master/0495-teemo-attacking) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -239,4 +242,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sunny1074/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sunny1074/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
