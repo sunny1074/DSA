@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sunny1074/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/sunny1074/DSA/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@
 | [0189-rotate-array](https://github.com/sunny1074/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/sunny1074/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -143,6 +145,7 @@
 | [0228-summary-ranges](https://github.com/sunny1074/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sunny1074/DSA/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/sunny1074/DSA/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/sunny1074/DSA/tree/master/0495-teemo-attacking) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -160,6 +163,7 @@
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sunny1074/DSA/tree/master/2974-minimum-number-game) |
 ## Stack
@@ -187,6 +191,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sunny1074/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
