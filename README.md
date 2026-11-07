@@ -67,6 +67,7 @@
 | [0191-number-of-1-bits](https://github.com/sunny1074/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/sunny1074/DSA/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunny1074/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/sunny1074/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -164,6 +166,7 @@
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/sunny1074/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sunny1074/DSA/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sunny1074/DSA/tree/master/2974-minimum-number-game) |
 ## Stack
@@ -192,6 +195,7 @@
 | [0202-happy-number](https://github.com/sunny1074/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sunny1074/DSA/tree/master/0389-find-the-difference) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
