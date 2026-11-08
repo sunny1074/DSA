@@ -60,6 +60,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sunny1074/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/sunny1074/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/sunny1074/DSA/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
@@ -259,4 +260,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sunny1074/DSA/tree/master/0322-coin-change) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sunny1074/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
