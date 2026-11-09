@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sunny1074/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/sunny1074/DSA/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sunny1074/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/sunny1074/DSA/tree/master/0441-arranging-coins) |
@@ -141,6 +142,7 @@
 | [0054-spiral-matrix](https://github.com/sunny1074/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sunny1074/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunny1074/DSA/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/sunny1074/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/sunny1074/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sunny1074/DSA/tree/master/0198-house-robber) |
