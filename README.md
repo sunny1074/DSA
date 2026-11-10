@@ -94,6 +94,7 @@
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/sunny1074/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/sunny1074/DSA/tree/master/0495-teemo-attacking) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/sunny1074/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2974-minimum-number-game](https://github.com/sunny1074/DSA/tree/master/2974-minimum-number-game) |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sunny1074/DSA/tree/master/0680-valid-palindrome-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/sunny1074/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
