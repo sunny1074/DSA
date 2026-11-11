@@ -33,6 +33,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sunny1074/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/sunny1074/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/sunny1074/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/sunny1074/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/sunny1074/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -83,6 +84,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sunny1074/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/sunny1074/DSA/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
