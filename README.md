@@ -97,6 +97,7 @@
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
+| [0799-champagne-tower](https://github.com/sunny1074/DSA/tree/master/0799-champagne-tower) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sunny1074/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Two Pointers
 |  |
