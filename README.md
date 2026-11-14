@@ -81,6 +81,7 @@
 | [0292-nim-game](https://github.com/sunny1074/DSA/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/sunny1074/DSA/tree/master/0441-arranging-coins) |
+| [0788-rotated-digits](https://github.com/sunny1074/DSA/tree/master/0788-rotated-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@
 | [0338-counting-bits](https://github.com/sunny1074/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sunny1074/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/sunny1074/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/sunny1074/DSA/tree/master/0799-champagne-tower) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sunny1074/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Two Pointers
