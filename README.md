@@ -163,6 +163,7 @@
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/sunny1074/DSA/tree/master/0495-teemo-attacking) |
 | [0896-monotonic-array](https://github.com/sunny1074/DSA/tree/master/0896-monotonic-array) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sunny1074/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sunny1074/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1074/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sunny1074/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sunny1074/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Longest Common Subsequence
 |  |
 | ------- |
