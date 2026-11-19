@@ -162,6 +162,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/sunny1074/DSA/tree/master/0495-teemo-attacking) |
+| [0874-walking-robot-simulation](https://github.com/sunny1074/DSA/tree/master/0874-walking-robot-simulation) |
 | [0896-monotonic-array](https://github.com/sunny1074/DSA/tree/master/0896-monotonic-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sunny1074/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sunny1074/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -211,6 +212,7 @@
 | [0242-valid-anagram](https://github.com/sunny1074/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunny1074/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sunny1074/DSA/tree/master/0389-find-the-difference) |
+| [0874-walking-robot-simulation](https://github.com/sunny1074/DSA/tree/master/0874-walking-robot-simulation) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunny1074/DSA/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/sunny1074/DSA/tree/master/0495-teemo-attacking) |
+| [0874-walking-robot-simulation](https://github.com/sunny1074/DSA/tree/master/0874-walking-robot-simulation) |
 | [2974-minimum-number-game](https://github.com/sunny1074/DSA/tree/master/2974-minimum-number-game) |
 ## Monotonic Stack
 |  |
