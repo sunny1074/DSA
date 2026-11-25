@@ -85,6 +85,7 @@
 | [0292-nim-game](https://github.com/sunny1074/DSA/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/sunny1074/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/sunny1074/DSA/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/sunny1074/DSA/tree/master/0492-construct-the-rectangle) |
 | [0788-rotated-digits](https://github.com/sunny1074/DSA/tree/master/0788-rotated-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunny1074/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
