@@ -109,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sunny1074/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sunny1074/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunny1074/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunny1074/DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/sunny1074/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/sunny1074/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sunny1074/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunny1074/DSA/tree/master/0053-maximum-subarray) |
@@ -182,6 +184,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sunny1074/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sunny1074/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunny1074/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sunny1074/DSA/tree/master/0164-maximum-gap) |
